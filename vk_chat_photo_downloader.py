@@ -45,7 +45,6 @@ def _download(photos_urls):
         hues.log(f"Сохраняю {photo_save_path}...")
         with open(photo_save_path, 'wb') as f:
             f.write(result.content)
-    pass
 
 
 def download_photos(photos_urls):
