@@ -9,20 +9,20 @@ Downloads photos from VK dialogs
 
 ### Prerequisites
 
-* Python 3.6+ ([download page](https://www.python.org/downloads/))
-* VK access token (to obtain you can use [vkhost.github.io](https://vkhost.github.io/))
+*   Python 3.6+ ([download page](https://www.python.org/downloads/))
+*   VK access token (to obtain you can use [vkhost.github.io](https://vkhost.github.io/))
 
 ### Installation
 
-1. Clone the repo
+1.  Clone the repo
 ```sh
 git clone https://github.com/DiSonDS/vk_chat_photo_downloader.git
 ```
-2. Install PyPI packages
+2.  Install PyPI packages
 ```sh
 pip3 install -r requirements.txt
 ```
-3. Enter your VK access token in `settings.py`
+3.  Enter your VK access token in `settings.py`
 ```Python
 VK_USER_TOKEN = 'ENTER YOUR ACCESS TOKEN';
 ```
