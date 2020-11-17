@@ -20,7 +20,7 @@ git clone https://github.com/DiSonDS/vk_chat_photo_downloader.git
 ```
 2. Install PyPI packages
 ```sh
-pip3 install -r requierements.txt
+pip3 install -r requirements.txt
 ```
 3. Enter your VK access token in `settings.py`
 ```Python
