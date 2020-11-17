@@ -1,0 +1,3 @@
+VK_USER_TOKEN = ''
+TIMEZONE = 'Europe/Minsk'
+INTERVAL = 0.3
