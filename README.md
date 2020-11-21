@@ -1,6 +1,7 @@
 # VK chat photo downloader
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9ea3c1c30a694300aec62e7c9079c419)](https://app.codacy.com/gh/DiSonDS/vk_chat_photo_downloader?utm_source=github.com&utm_medium=referral&utm_content=DiSonDS/vk_chat_photo_downloader&utm_campaign=Badge_Grade)
 
 Downloads photos from VK dialogs
