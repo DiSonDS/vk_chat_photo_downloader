@@ -1,4 +1,4 @@
-vk_api
-requests
-pytz
-hues
+vk_api==11.9.1
+requests==2.25.0
+pytz==2020.4
+hues==0.2.2
